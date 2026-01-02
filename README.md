@@ -1,3 +1,12 @@
+PYTHON PROJECT
+Submitted by:
+Eman Fatima 537512
+Irsa liaqat 537745
+Maheen farid 53364
+Maria kousar 538067
+Umbreen Tariq 500321
+
+
 #Procedural Galaxy Scene Generator (Blender)
 
 A modular **procedural galaxy scene generator** written in **Blender Python (bpy)**.
